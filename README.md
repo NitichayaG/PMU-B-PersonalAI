@@ -4,7 +4,7 @@ PMU-B-PersonalAI
 <dl>
 
   <dt>Welcome To My Portfolio</dt>
-  [![Watch the video](http://img.youtube.com/vi/https://www.youtube.com/watch?si=FvG6FNU3DEr3TwOt&v=Tz_E95waubs&feature=youtu.be/0.jpg)](https://youtu.be/https://www.youtube.com/watch?si=FvG6FNU3DEr3TwOt&v=Tz_E95waubs&feature=youtu.be)
+  [![Watch the video](http://img.youtube.com/vi/Tz_E95waubs?si=gDPlVZ-dZnoxTfnj/0.jpg)](https://youtu.be/Tz_E95waubs?si=gDPlVZ-dZnoxTfnj)
   
   <dt>Hello! I'm Nitichaya Glangkarn </dt>
   <dd> Driven by a profound passion for Biomedical Engineering, I'm fueled by the intersection of science, technology, and healthcare. My journey into this field has been shaped by a commitment to leveraging AI and coding development to solve medical issues.  </dd>
