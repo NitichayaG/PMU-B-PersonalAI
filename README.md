@@ -30,7 +30,6 @@ PMU-B-PersonalAI
 **2. Workshop**
 [title](https://example.com)
 
-**3. Summary**
 
 <a name="TinySleepnet"></a>
 ## TinySleepnet: Learning from Biosignal
@@ -39,8 +38,6 @@ PMU-B-PersonalAI
 **2. Workshop**
 [title](https://example.com)
 
-**3. Summary**
-
 <a name="CodePlagiarism"></a>
 ## AI for detecting code plagiarism
 **1. Key Concept**
@@ -48,7 +45,6 @@ PMU-B-PersonalAI
 **2. Workshop**
 [title](https://example.com)
 
-**3. Summary**
 
 <a name="BitNet"></a>
 ## BitNet: Ai for diagnosing ultrasound image
@@ -57,7 +53,6 @@ PMU-B-PersonalAI
 **2. Workshop**
 [title](https://example.com)
 
-**3. Summary**
 
 <a name="ArrestingCriminal"></a>
 ## AI for arresting criminals
@@ -66,7 +61,6 @@ PMU-B-PersonalAI
 **2. Workshop**
 [title](https://example.com)
 
-**3. Summary**
 
 <a name="Mentaldetection"></a>
 ## Mental Disorder detection from Social Media Deta
@@ -75,5 +69,4 @@ PMU-B-PersonalAI
 **2. Workshop**
 [title](https://example.com)
 
-**3. Summary**
 
