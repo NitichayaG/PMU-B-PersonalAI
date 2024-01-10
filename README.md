@@ -17,7 +17,7 @@ PMU-B-PersonalAI
 
 ## CONTENT
 * [Xpore: An AI-Powered App for Bioinformatics](#Xpore)
-* [TinyDeepSleep: Learning from Biosignal](#TinyDeepSleep)
+* [TinySleepnet: Learning from Biosignal](#TinySleepnet)
 * [AI for detecting code plagiarism](#CodePlagiarism)
 * [BitNet: Ai for diagnosing ultrasound image](#BitNet)
 * [AI for arresting criminals](#ArrestingCriminal)
@@ -32,8 +32,8 @@ PMU-B-PersonalAI
 
 **3. Summary**
 
-<a name="TinyDeepSleep"></a>
-## TinyDeepSleep: Learning from Biosignal
+<a name="TinySleepnet"></a>
+## TinySleepnet: Learning from Biosignal
 **1. Key Concept**
 
 **2. Workshop**
